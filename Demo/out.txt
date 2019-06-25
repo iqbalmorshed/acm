@@ -1,0 +1,2 @@
+motif=ATGGCATAGTTGCATTCCGGGCTATATT
+total time required : 60.000000
